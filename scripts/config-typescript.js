@@ -10,7 +10,7 @@ System.config({
   packages: {
     "src": {
       defaultJSExtensions: true,
-      defaultExtension: "ts"
+      defaultExtension: "js"
     }
   }
 });
